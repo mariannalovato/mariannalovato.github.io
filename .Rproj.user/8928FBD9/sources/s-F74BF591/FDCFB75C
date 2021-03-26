@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "447623070",
+    "hash" : "380392650",
     "id" : "FDCFB75C",
-    "lastKnownWriteTime" : 1616777915,
-    "last_content_update" : 1616777915777,
+    "lastKnownWriteTime" : 1616778002,
+    "last_content_update" : 1616778002230,
     "path" : "~/Documents/GitHub/mariannalovato.github.io/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "1,18",
+        "cursorPosition" : "1,43",
         "scrollLine" : "0"
     },
     "read_only" : false,

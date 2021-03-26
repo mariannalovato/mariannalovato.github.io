@@ -1,5 +1,5 @@
 title = "Marianna Lovato"
-baseURL = "/_index"
+baseURL = "https://mariannalovato.github.io"
 theme = "hugo-researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
