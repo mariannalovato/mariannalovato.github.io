@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Marianna Lovato</title>
+    <link>https://example.com/</link>
+    <description>Recent content in About on Marianna Lovato</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>My PhD project My current PhD project, titled The rules of the game: How to bargain and win at the EU negotiating table - Understanding negotiation effectiveness in EU foreign policy, investigates the reasons why certain member states are more successful than others in influencing EU foreign policy negotiations. I am focusing in particular on Common Foreign and Security Policy and Commond Security and Defense Policy (CFSP/CSDP) negotiations, including the policy debate on PESCO, operation EUBAM Libya, the sanctions against Russia and operation EUNAVFORMED IRINI.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description>Contact me:  Email: marianna.lovato@ucdconnect.ie Twitter: @lovatomary_95 LinkedIn: Marianna Lovato   </description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://example.com/taching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/taching/</guid>
+      <description>Undergraduate tutoring Since the start of my PhD, I have been tutoring undergraduate modules offered at the School of Politics and International Relations. As part of my teaching responsibilities, I prepare and deliver 50-minute tutorial sessions in line with the module coordinator&amp;rsquo;s instructions, I hold regular office hours, correspond with students and grade midterm essays as well as final exams.
+   Academic term Course Details     Spring 2021 Comparative Politcs (POL20020) Second-year undergraduate course.</description>
+    </item>
+    
+  </channel>
+</rss>
