@@ -4,8 +4,7 @@ title: About
 
 ## My PhD project 
 
-My current PhD project, titled *The rules of the game: How to bargain and win at the EU negotiating table - Understanding negotiation effectiveness in EU foreign policy*, investigates the reasons why certain member states are more successful than others in influencing EU foreign policy negotiations. I am focusing in particular on Common Foreign and Security Policy and Commond Security and Defense Policy (CFSP/CSDP) negotiations, including the policy debate on PESCO, operation EUBAM Libya, the sanctions against Russia and operation EUNAVFORMED IRINI. More broadly, I am interested in negotiation theory, CFSP/CSDP, European strategic autonomy. 
-
+My current PhD project, titled *The rules of the game: How to bargain and win at the EU negotiating table - Understanding negotiation effectiveness in EU foreign policy*, investigates the reasons why certain member states are more successful than others in influencing EU foreign policy negotiations.  am focusing in particular on Common Foreign and Security Policy and Commond Security and Defense Policy (CFSP/CSDP) negotiations, including the policy debate on PESCO, the launch of operation EUBAM Libya and the first round of sanctions against Russia. 
 
 ## Other research projects 
 
@@ -21,7 +20,7 @@ We therefore ask how two small EU member states (Ireland and Austria) in practic
   
 <br />  
 
-[2] Together with [Assistant Professor Federica Bicchi](https://www.lse.ac.uk/international-relations/people/bicchi), I am working on an article on the COREU network. 
+[2] Together with [Assistant Professor Federica Bicchi](https://www.lse.ac.uk/international-relations/people/bicchi), I am working on an article on the COREU network. In allowing for the continuation of EU foreign policy negotiations *beyond* face-to-face meetings, the network has come to play a key role in the CFSP/CSDP decision-making process. Over the last decade, however, the use of the COREU network has been progressively sidelined in favor of more user-friendly forms of communications. What exactly are the reasons of this decline? Is the COREU network experiencing some of the very same changes that have been characterizing European integration over the last few years? 
 <details>
   <summary>Abstract</summary>
   <br />
@@ -54,6 +53,10 @@ trade policy”, **ECPR Joint Sessions of Workshops 2021**, 19-28 May 2021.
 [5] “Italy in the EU: When Domestic Constraints Weigh You Down”, **UACES 50th Annual Conference**, 7-11 September 2020. 
 
 [6] “The Price of Domestic Constraints: Italy’s Performance in EU Negotiations”, **ECPR Standing Group on the European Union**, 4-6 June 2020. 
+
+## Conference organization 
+
+* **NORTIA research days** (7-8 December 2020): together with [Dr Heidi Maurer](https://research-information.bris.ac.uk/en/persons/heidi-maurer), I organized an online event dedicated to academic feedback and attended by 30+ participants from European and non-European universities. The program is available [here](http://www.eufp.eu/node/9825). 
 
 ## Invited speaker 
 

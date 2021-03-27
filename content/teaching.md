@@ -30,7 +30,7 @@ Fall 2019 | [Foundations Political Theory and International Relations](https://s
 <details>
   <summary>More details</summary>
   <br />
-  Following the Harvard Kennedy School case study method, I designed a case study to be used for undergraduate and graduate level courses on EU foreign policy, under the supervision of [Associate Professor Federica Bicchi](https://www.lse.ac.uk/international-relations/people/bicchi). 
+  Following the Harvard Kennedy School case study method, I designed a case study to be used for undergraduate and graduate level courses on EU foreign policy.
   
   The case study focuses on the role of the COREU network in Common Foreign and Security Policy/Common Security and Defense Policy decision-making. 
   

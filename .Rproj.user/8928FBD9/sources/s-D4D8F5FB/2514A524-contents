@@ -29,7 +29,9 @@ My thesis makes a number of significant contributions. For one, I apply a spatia
   </details>
 <br />
 
-More broadly, I am interested in **negotiation theory**, **CFSP/CSDP**, **European strategic autonomy**. 
+## Areas of interest 
+
+Negotiation theory • CFSP/CSDP • European strategic autonomy • Europeanization of foreign policy  
 
 ## Out now: 
 
