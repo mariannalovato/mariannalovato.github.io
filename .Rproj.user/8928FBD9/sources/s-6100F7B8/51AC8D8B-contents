@@ -1,0 +1,4 @@
+library(blogdown)
+options(blogdown.publishDir = '../mariannalovato.github.io') 
+build_site()
+serve_site()

@@ -1,4 +1,0 @@
-library(blogdown)
-options(blogdown.publishDir = '../Documents/Github/mariannalovato.github.io') 
-build_site()
-serve_site()
